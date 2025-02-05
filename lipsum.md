@@ -1,7 +1,7 @@
 Lorem Ipsum
 ===========
 
-A group project for Version Control 101 Course
+A group project for Version Control 101 Course - 2nd revision
 
 ## About
 
